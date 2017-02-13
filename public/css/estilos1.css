@@ -1,0 +1,109 @@
+.no-margin {
+    margin: 0px;
+}
+
+.no-padding {
+    padding: 0px;
+}
+
+#menuder {
+    background-color: ;
+    height: 720px;
+    padding-top: 10px;
+}
+
+#MenuNav {
+    padding: 0px;
+}
+
+.carousel-inner> .item > img {
+    margin: auto;
+}
+.carousel-inner > .item > img{
+       width:700px;
+       height:300px;
+       padding-top: 10px;
+}
+
+.carousel-inner> .item {
+    height: 300px;
+}
+
+.row {
+    width: 70%;
+    margin: auto;
+}
+
+#menuizq {
+    background-color: ;
+    height: 720px;
+    padding-top: 10px;
+}
+
+#cont {
+    /*padding-top: 10px;*/
+}
+
+.site-footer {
+    background-color: #FBDE3F;
+    padding: 35px 20px;
+    text-align: center;
+}
+
+.navbar-default {
+    background-color: #FBDE3F;
+    margin-bottom: 0px;
+    border: 0px;
+    border-radius: 0px;
+}
+
+.post {
+    padding-bottom: 10px;
+    margin-bottom: 10px;
+    border-bottom: 1px solid #999;
+}
+
+.post .post-tittle a {
+    color: #333;
+}
+
+.post .thumb {
+    margin-right: 10px;
+    width: 40%;
+}
+
+.post .thumb img {
+    width: 100%;
+}
+
+body {
+    
+    background-repeat: repeat;
+    background-position: center 50%;
+    height: 100%;
+}
+
+#Contenido {
+    padding-top: 25px;
+}
+
+article {
+    border: 5px 5px 5px 5px;
+    background-color: white;
+   /* border-radius: 7px;*/
+    padding: 10px 10px 10px 10px;
+}
+
+h2.post-tittle {
+    margin: auto;
+    padding-bottom: 10px;
+}
+
+.pagination {
+    margin: 0;
+    padding-bottom: 35px;
+}
+
+aside {
+    width: 80%;
+}
